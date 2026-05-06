@@ -9,9 +9,3 @@ This repository now includes a simple static landing page for Monetree, built wi
 - `styles.css`: visual styles and responsive layout
 - `vercel.json`: minimal Vercel configuration
 
-## Deploy on Vercel
-
-1. Push this repository to GitHub.
-2. Import the repository into Vercel.
-3. Keep the default settings. Vercel will serve the static files automatically.
-4. Publish and use the generated public URL.
